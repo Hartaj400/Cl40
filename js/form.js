@@ -14,9 +14,9 @@ class Form{
     }
     display() {
         this.title.html("FRUIT CATCHER");
-        this.title.position(400, 80);
+        this.title.position(350, 50);
         this.title.style('font-size', '70px');
-        this.title.style('color', 'red');
+        this.title.style('color', 'skyblue');
         this.input.position(550,400);
         this.input.style('width', '200px');
         this.input.style('height', '20px');
